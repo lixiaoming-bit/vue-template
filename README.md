@@ -1,24 +1,3 @@
-# sc-user-center
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 开发安装记录
+1. 安装`babel-pollify`，兼容高版本`ie`
+2. 安装可选链接操作符号 `?.`
